@@ -81,7 +81,7 @@ namespace Confere.Processos.Monitor
         {
             
             EnviarEmail(
-                toEmail: "dpcosta@gmail.com", 
+                toEmail: "marcinhagarciarj@gmail.com", 
                 assuntoMensagem: "[Consulta Processos] Log", 
                 corpoMensagem: mensagem
             );
@@ -176,7 +176,7 @@ namespace Confere.Processos.Monitor
                     }
 
                     EnviarEmail(interessado.Email, "[Consulta Processos] Notificação de processos atualizados", corpoMensagem);
-                    EnviarEmail("dpcosta@gmail.com", "[Consulta Processos] Notificação de processos atualizados", corpoMensagem);
+                    EnviarEmail("marciagarcia.confere@gmail.com", "[Consulta Processos] Notificação de processos atualizados", corpoMensagem);
                     EnviarEmail("marcinhagarciarj@gmail.com", "[Consulta Processos] Notificação de processos atualizados", corpoMensagem);
 
                 }

@@ -10,7 +10,7 @@ namespace Confere.Processos.Monitor
     {
         public void Execute(IJobExecutionContext context)
         {
-            EnviarEmail("dpcosta@gmail.com", "Teste", "Testando o envio de email");
+            EnviarEmail("marcinhagarciarj@gmail.com", "Teste", "Testando o envio de email");
         }
 
         private void EnviarEmail(string toEmail, string assuntoMensagem, string corpoMensagem)
@@ -22,7 +22,7 @@ namespace Confere.Processos.Monitor
                 Port = 587,
                 EnableSsl = true,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("dpcosta@gmail.com", "sgdixptpycnaqrmk")
+                Credentials = new NetworkCredential("marcinhagarciarj@gmail.com", "sgdixptpycnaqrmk")
             };
 
             try
@@ -34,7 +34,7 @@ namespace Confere.Processos.Monitor
                 message.To.Add(toEmail);
 
                 // Sender
-                message.From = new MailAddress("dpcosta@gmail.com");
+                message.From = new MailAddress("marcinhagarciarj@gmail.com");
 
                 // Subject
                 message.Subject = assuntoMensagem;
