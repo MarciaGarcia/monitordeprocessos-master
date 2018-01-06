@@ -1,0 +1,124 @@
+<?xml version = '1.0' encoding='UTF-8'?>
+<DetalheMateria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://legis.senado.leg.br/dadosabertos/dados/DetalheMateriav5.xsd">
+  <Metadados>
+    <Versao>21/06/2017 08:17:26</Versao>
+    <VersaoServico>5</VersaoServico>
+    <DataVersaoServico>2017-02-01</DataVersaoServico>
+    <DescricaoDataSet>Dados básicos da matéria, incluindo autoria, norma gerada e outras informações</DescricaoDataSet>
+  </Metadados>
+  <Materia>
+    <IdentificacaoMateria>
+      <CodigoMateria>128545</CodigoMateria>
+      <SiglaCasaIdentificacaoMateria>SF</SiglaCasaIdentificacaoMateria>
+      <NomeCasaIdentificacaoMateria>Senado Federal</NomeCasaIdentificacaoMateria>
+      <SiglaSubtipoMateria>PLS</SiglaSubtipoMateria>
+      <DescricaoSubtipoMateria>PROJETO DE LEI DO SENADO</DescricaoSubtipoMateria>
+      <NumeroMateria>00085</NumeroMateria>
+      <AnoMateria>2017</AnoMateria>
+      <IndicadorTramitando>Não</IndicadorTramitando>
+    </IdentificacaoMateria>
+    <DadosBasicosMateria>
+      <EmentaMateria>Define os crimes de abuso de autoridade e dá outras providências.</EmentaMateria>
+      <ExplicacaoEmentaMateria>Define os crimes de abuso de autoridade; tipifica as condutas praticadas com abuso de autoridade por membro de Poder ou agente da Administração Pública, servidor público ou não, da União, Estados, Distrito Federal e Municípios.</ExplicacaoEmentaMateria>
+      <IndexacaoMateria>DEFINIÇÃO, CRIME, ABUSO DE AUTORIDADE, TIPIFICAÇÃO, CONDUTA, ARBITRARIEDADE, MEMBROS, PODERES CONSTITUCIONAIS, AGENTE, ADMINISTRAÇÃO PUBLICA, SERVIDOR PUBLICO CIVIL, UNIÃO FEDERAL, ESTADOS, MUNICIPIOS, DISTRITO FEDERAL (DF).</IndexacaoMateria>
+      <IndicadorComplementar>Não</IndicadorComplementar>
+      <DataApresentacao>2017-03-29</DataApresentacao>
+      <DataLeitura>2017-03-29</DataLeitura>
+      <NaturezaMateria>
+        <CodigoNatureza>11</CodigoNatureza>
+        <NomeNatureza>NORMA_GERAL</NomeNatureza>
+        <DescricaoNatureza>Norma Geral</DescricaoNatureza>
+      </NaturezaMateria>
+    </DadosBasicosMateria>
+    <Autoria>
+      <Autor>
+        <NomeAutor>Randolfe Rodrigues</NomeAutor>
+        <SiglaTipoAutor>SENADOR</SiglaTipoAutor>
+        <DescricaoTipoAutor>Senador</DescricaoTipoAutor>
+        <UfAutor>AP</UfAutor>
+        <NumOrdemAutor>1</NumOrdemAutor>
+        <IndicadorOutrosAutores>Não</IndicadorOutrosAutores>
+        <IdentificacaoParlamentar>
+          <CodigoParlamentar>5012</CodigoParlamentar>
+          <NomeParlamentar>Randolfe Rodrigues</NomeParlamentar>
+          <NomeCompletoParlamentar>Randolph Frederich Rodrigues Alves</NomeCompletoParlamentar>
+          <SexoParlamentar>Masculino</SexoParlamentar>
+          <FormaTratamento>Senador</FormaTratamento>
+          <UrlFotoParlamentar>http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5012.jpg</UrlFotoParlamentar>
+          <UrlPaginaParlamentar>http://www25.senado.leg.br/web/senadores/senador/-/perfil/5012</UrlPaginaParlamentar>
+          <EmailParlamentar>randolfe.rodrigues@senador.leg.br</EmailParlamentar>
+          <SiglaPartidoParlamentar>REDE</SiglaPartidoParlamentar>
+          <UfParlamentar>AP</UfParlamentar>
+        </IdentificacaoParlamentar>
+      </Autor>
+    </Autoria>
+    <Assunto>
+      <AssuntoEspecifico>
+        <Codigo>130</Codigo>
+        <Descricao>Direito penal e processual penal</Descricao>
+      </AssuntoEspecifico>
+      <AssuntoGeral>
+        <Codigo>83</Codigo>
+        <Descricao>Jurídico</Descricao>
+      </AssuntoGeral>
+    </Assunto>
+    <OrigemMateria>
+      <NomePoderOrigem>Legislativo</NomePoderOrigem>
+      <SiglaCasaOrigem>SF</SiglaCasaOrigem>
+      <NomeCasaOrigem>Senado Federal</NomeCasaOrigem>
+    </OrigemMateria>
+    <CasaIniciadoraNoLegislativo>
+      <SiglaCasaIniciadora>SF</SiglaCasaIniciadora>
+      <NomeCasaIniciadora>Senado Federal</NomeCasaIniciadora>
+    </CasaIniciadoraNoLegislativo>
+    <SituacaoAtual>
+      <Autuacoes>
+        <Autuacao>
+          <NumeroAutuacao>1</NumeroAutuacao>
+          <Situacao>
+            <DataSituacao>2017-05-10</DataSituacao>
+            <CodigoSituacao>52</CodigoSituacao>
+            <SiglaSituacao>RMCD</SiglaSituacao>
+            <DescricaoSituacao>REMETIDA À CÂMARA DOS DEPUTADOS</DescricaoSituacao>
+          </Situacao>
+          <Local>
+            <CodigoLocal>440</CodigoLocal>
+            <TipoLocal>A</TipoLocal>
+            <SiglaCasaLocal>SF</SiglaCasaLocal>
+            <NomeCasaLocal>Senado Federal</NomeCasaLocal>
+            <SiglaLocal>SEXPE</SiglaLocal>
+            <NomeLocal>Secretaria de Expediente</NomeLocal>
+          </Local>
+        </Autuacao>
+      </Autuacoes>
+    </SituacaoAtual>
+    <OutrasInformacoes>
+      <Servico>
+        <NomeServico>EmendaMateria</NomeServico>
+        <DescricaoServico>Emendas da matéria</DescricaoServico>
+        <UrlServico>http://legis.senado.leg.br/dadosabertos/materia/emendas/128545?v=5</UrlServico>
+      </Servico>
+      <Servico>
+        <NomeServico>MovimentacaoMateria</NomeServico>
+        <DescricaoServico>Movimentações da matéria, como tramitações, despachos e prazos</DescricaoServico>
+        <UrlServico>http://legis.senado.leg.br/dadosabertos/materia/movimentacoes/128545?v=5</UrlServico>
+      </Servico>
+      <Servico>
+        <NomeServico>RelatoriaMateria</NomeServico>
+        <DescricaoServico>Relatoria atual e relatorias encerradas (histórico) da matéria</DescricaoServico>
+        <UrlServico>http://legis.senado.leg.br/dadosabertos/materia/relatorias/128545?v=5</UrlServico>
+      </Servico>
+      <Servico>
+        <NomeServico>TextoMateria</NomeServico>
+        <DescricaoServico>Textos da matéria</DescricaoServico>
+        <UrlServico>http://legis.senado.leg.br/dadosabertos/materia/textos/128545?v=5</UrlServico>
+      </Servico>
+      <Servico>
+        <NomeServico>VotacaoMateria</NomeServico>
+        <DescricaoServico>Votações da matéria</DescricaoServico>
+        <UrlServico>http://legis.senado.leg.br/dadosabertos/materia/votacoes/128545?v=5</UrlServico>
+      </Servico>
+    </OutrasInformacoes>
+    <UrlGlossario>http://legis.senado.leg.br/dadosabertos/glossario/lista</UrlGlossario>
+  </Materia>
+</DetalheMateria>
